@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/src/main/java/ru/sbt/mipt/alg/src/main/java/ru/sbt/mipt/alg.iml" filepath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/alg/src/main/java/ru/sbt/mipt/alg.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java-alg.iml" filepath="$PROJECT_DIR$/java-alg.iml" />
-    </modules>
-  </component>
-</project>
